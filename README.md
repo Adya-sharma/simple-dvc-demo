@@ -30,3 +30,9 @@ git add .
 git commit -m "first commit"
 
 
+oneline update for readme.md
+git add . && git commit -m "update Readme.md"
+
+git remote add origin https://github.com/Adya-sharma/simple-dvc-demo.git
+git branch -M main
+>git push origin main
